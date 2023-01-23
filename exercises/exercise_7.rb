@@ -10,3 +10,5 @@ puts "Exercise 7"
 puts "----------"
 
 # Your code goes here ...
+@store.Store.create(name:"Chunyu store")
+@employee.Employee.create(hourly_rate:300)
